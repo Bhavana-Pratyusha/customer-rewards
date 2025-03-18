@@ -1,0 +1,20 @@
+[
+    {
+      "customerId": 1,
+      "name": "Amit Sharma",
+      "transactions": [
+        { "transactionId": 101, "amount": 9500, "date": "2024-12-01" },
+        { "transactionId": 102, "amount": 7200, "date": "2024-11-15" },
+        { "transactionId": 103, "amount": 15500, "date": "2024-10-20" }
+      ]
+    },
+    {
+      "customerId": 2,
+      "name": "Priya Patel",
+      "transactions": [
+        { "transactionId": 201, "amount": 8500, "date": "2024-12-05" },
+        { "transactionId": 202, "amount": 13500, "date": "2024-11-10" }
+      ]
+    }
+  ]
+  
